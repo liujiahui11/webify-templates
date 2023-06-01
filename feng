@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./样式.css">
+</head>
+<body>
+    <div id="one-top"></div>
+    <div class="top">
+        <div class="logo">
+        <a href="./封面布局.html">
+            <img src="./2.png" width="200px" height="50px" ">
+        </a>
+    </div>
+        <div class="search">
+           <form>
+            <div class="search1">
+                <div class="searchmen">
+                    <div class="searchses">
+                        玄幻
+                    </div>
+                </div>
+                <input name="w" type="text">
+                <div class="searchbutton">
+                  <button id="searchbutton" type="submit">搜索</button>
+                </div>
+            </div>
+           </form>
+        </div>
+        <div class="user">
+              <font style="border-right:1">
+                <a href="./denglu.html" >登录</a>
+                </font>
+                <font>
+                    <a href="./zhuce.html">注册</a>
+                    </font>
+    </div>    
+    </div>
+    <div class="zhuti">
+          <ul>
+            <li class="x1">
+                <strong class="ww"></strong>
+                小说分类
+            </li>
+            <li>
+                <a href="./封面布局.html" title="首页">首页</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="全球高武">全球高武</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="星门">星门</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="万族之劫">万族之劫</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="剑来">剑来</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="神秘复苏">神秘复苏</a>
+            </li>
+            <li>
+                <a href="./封面布局.html" title="大奉打更人">大奉打更人</a>
+            </li>
+            <li class="x2"></li>
+          </ul>
+    </div>
+    <div class="zhuti1">
+        <div class="zhuti1men">
+            <div class="menu">
+                <ul>
+                    <li>
+                        <h3>都市小说</h3>
+                        <p>
+                            <a href="">重生之都市修仙</a>
+                            <a href="">joker沅不得不说的故事</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>
+                    </li>
+                    <li>
+                        <h3>玄幻小说</h3>
+                        <p>
+                            <a href="">大奉打更人</a>
+                            <a href="">全球高武</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>                           
+
+                    </li>
+                    <li>
+                        <h3>仙侠小说</h3>
+                        <p>
+                            <a href="">我不可能是剑神</a>
+                            <a href="">大周仙吏</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>
+                    </li>
+                    <li>
+                        <h3>恐怖小说</h3>
+                        <p>
+                            <a href="">神秘复苏</a>
+                            <a href="">我的治愈系游戏</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>
+                    </li>
+                    <li>
+                        <h3>历史小说</h3>
+                        <p>
+                            <a href="">横刀十六国</a>
+                            <a href="">李世民魂穿刘阿斗</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>
+                    </li>
+                    <li>
+                        <h3>悬疑小说</h3>
+                        <p>
+                            <a href="">在克苏鲁世界成神</a>
+                            <a href="">444号医院</a>
+                        </p>
+                        <div class="yy1"></div>
+                        <div class="yy2"></div>
+                        <div class="yy3"></div>
+                        <div class="yy4"></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="flash">
+                <a href="javascript:void(0)" class="prev"></a>
+                <a href="javascript:void(0)" class="next"></a>
+                <div class="y1">
+                <img src="./doupocangqion.jpg" width="100%" height="100%">
+				<img src="./two_man.jpg" width="100%" height="100%">
+				<img src="./qianyue_two.jpg" width="100%" height="100%">
+				<img src="./tang.jpg" width="100%" height="100%">
+				<img src="./zetianji.jpg"  width="100%" height="100%">
+				<img src="./woyufengtian.jpg" >
+                </div> 
+                <div class="but">
+                <span class="hovee"></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                </div>
+            </div>
+           <div class="news">
+            <div class="yyy1"></div>
+            <div class="yyy2">
+                <h3>特大快讯</h3>
+                <ul>
+                    <li>
+                        <a href="" class="first" title="全球高武">
+                            <font>[ 特刊 ]</font>
+                            "全球高武:大劫至,亦为盛世至"
+                        </a>
+                    </li>
+                    <li>
+                        <a hred="" title="万族之劫">
+                            <font>[ 劫难 ]</font>
+                            "万族之劫:我是这诸天万族的劫"
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" title="我的治愈系游戏">
+                            <font>[ 救赎 ]</font>
+                            "我的治愈系游戏:欢迎来到幸福小区"
+                        </a>
+                    </li>
+                </ul>
+                <div class="datatxt">
+                    <h3>更新提示</h3>
+                    <ul>
+                        <li>
+                            <a href="" title="神秘复苏">
+                                <font>[ 更新 ]</font>
+                                "神秘复苏:七分钟代表着杨间的灭亡,亦是杨戬的诞生"
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" title="大奉打更人">
+                                <font>[ 更新 ]</font>
+                                "大奉打更人:今日无事,勾栏听曲"
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+           </div>
+           <div style="clear: both;"></div>
+        </div>
+    </div>
+    <div class="fenlei">
+        <p class="tt1">作品分类</p>
+        <div class="part">
+        <div class="part1">
+            <img src="./prev.png" class="prev">
+            <img src="./next.png" class="next">
+            <div class="imgtap">
+                <ul>
+                    <li>
+                        <img src="./wo.jpeg" width="280px" height="280px">
+                        <h3>警察同志，如果我说这是一款休闲治愈系游戏，你们信吗？</h3>
+                        <span>
+                            "点击: "
+                            <font>立即阅读</font>
+                        </span>
+                    </li>
+                    <li>
+                        <img src="./da.jpeg" width="280px" height="280px">
+                        <h3>多年后，许七安回首前尘，身后是早已逝去的敌人，以及累累白骨。滚滚长江东逝水，浪花淘尽英雄，是非成败转头空。青山依旧在，几度夕阳红。</h3>
+                        <span>
+                            "点击: "
+                            <font>立即阅读</font>
+                        </span>
+                    </li>
+                    <li>
+                        <img src="./wan.jpeg" width="280px" height="280px">
+                        <h3>我是这诸天万族的劫</h3>
+                        <span>
+                            "点击: "
+                            <font>立即阅读</font>
+                        </span>
+                    </li>
+                    <li>
+                        <img src="./shen.jpeg" width="280px" height="280px">
+                        <h3>五浊恶世，地狱已空，厉鬼复苏，人间如狱。 这个世界鬼出现了......那么神又在哪里？ 求神救世，可世上已无神，只有鬼。</h3>
+                        <span>
+                            "点击: "
+                            <font>立即阅读</font>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="part2">
+            <ul>
+                <li>
+                    <a>男生</a>
+                </li>
+                <li>
+                    <a>女生</a>
+                </li>
+                <li>
+                    <a>更新</a>
+                </li>
+                <li>
+                    <a>签约作品</a>
+                </li>
+                <li>
+                    <a>完本</a>
+                </li>
+            </ul>
+            <div class="zz1">
+                <img src="./quan.jpg">
+                <p>为人族贺!为武王贺!</p>
+                <span class="zz2">热销书籍</span>
+            </div>
+        </div>
+        <div class="part3">
+            <div class="zzz1">
+                <section class="book">
+                    <ul>
+                        <li>
+                          <img src="./chao.jpg">
+                          <p>
+                            "超级惊悚直播: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                        <li>
+                            <img src="./shu.jpg">
+                          <p>
+                            "宿命之环: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                        <li>
+                            <img src="./gui.jpg">
+                          <p>
+                            "诡秘之主: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                        <li>
+                            <img src="./xing.jpg">
+                          <p>
+                            "星门: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                        <li>
+                            <img src="./quan.jpg">
+                          <p>
+                            "全球高武: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                        <li>
+                            <img src="./qiu.jpg">
+                          <p>
+                            "求魔: "
+                            <span>点击阅读</span>
+                          </p>
+                        </li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        </div>
+        <div class="bo1">
+            <div class="boo1">
+        <a>关于ClionChen</a>
+		<a>商务合作</a>
+		<a>友情链接</a>
+		<a>帮助中心</a>
+		<a>用户守则</a>
+		<a>网站地图</a>
+		<a>诚聘精英</a>
+		<a>Clionchen开源</a>
+            </div>
+            <p>
+                <a>
+                    Copyright (C) 2018-2019 www.ClionChem.com All Rights Reserved 
+                </a>
+                <br>
+                "
+                等在线小说阅读网站,未经许可不得擅自转载本站内容。ClionChen书屋所收录免费小说作品、社区话题、书友评论、用户上传文字、图片等其他一切内容均属用户个人行为，与ClionChen无关。--ClionChen权利声明。
+                "
+            </p>
+        </div>
+    </div>
+</body>
+</html>
